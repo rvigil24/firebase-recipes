@@ -1,9 +1,7 @@
-import app from './firebase.config'
+import firebase from './firebase.config'
 import './App.css'
 
 function App() {
-
-  // firebase
 
   return (
     <>
